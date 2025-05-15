@@ -1,4 +1,4 @@
-![Header](./images/header-image.png)
+![Header](./images/banner_github.png)
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFrNWgxdjZldTkxYWt6cmFpdmxucm9sYnY5b3hkMnc1ZnZydDE5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width = 50px></picture><b> About Me</b>
 ```bash
