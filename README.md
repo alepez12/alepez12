@@ -61,7 +61,7 @@
   <a href="mailto:alex3d.ap@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/juan-garc%C3%ADa-carballo-3245622bb/">
+  <a href="https://www.linkedin.com/in/alejandro-p%C3%A9rez-santiago/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
   </a>
 </div>
